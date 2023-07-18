@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.list-container {
+  list-style: none;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 40px;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #000000;
+  margin-right: 30px;
+}
+
+.button {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 14px;
+  border: 2px solid #ff0b37;
+  border-radius: 8px;
+  background-color: #ffffff;
+  padding: 8px;
+  height: 36px;
+  width: 80px;
+}
